@@ -12,6 +12,7 @@ I am a 4th year at **UCSD** studying Math-CS. I was born and rasied in Southern 
 
 > "I feel like I am too busy writting history to read it - Kanye West
 [Yeezy Supply](https://www.yeezysupply.com/)
+
 **Favorite Food**
 1. Tamales
 2. Fajitas
