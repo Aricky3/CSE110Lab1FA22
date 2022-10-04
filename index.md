@@ -25,6 +25,6 @@ I am a 4th year at **UCSD** studying Math-CS. I was born and rasied in Southern 
 - Karinas
 - Wood Ranch
 
-- [x] #739
+- [x] wake up
 - [ ] Go to class
 - [ ] Turn in lab
